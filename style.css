@@ -1,0 +1,81 @@
+.headerlogo{
+    width: 130px;
+    height: 64px;
+    margin-top: 32px;
+    margin-left: 40px;
+}
+nav{
+    width: 97px;
+    height: 96px;
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.redcolor{
+    color: #F50808;
+}
+.blucolor{
+    color: #2414DB;
+}
+.distance{
+    padding-top: 12px;
+}
+.fordcar{
+    width: 1345px;
+    height: 720px;
+    margin-top: 51px;
+    margin-left: 40px;
+
+}
+.aboutcar{
+    width: 1345px;
+    height: 58px;
+    margin-top: 51px;
+    margin-left: 40px;
+    color: #20FF0D;
+    font-size: 24px;
+}
+.socialnetwork{
+    width: 220px;
+    height: 60px;
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.maintext{
+    width: 1320px;
+    height: 452px;
+    margin-top: 94px;
+    margin-left: 40px;
+}
+.heading-page{
+    font-size: 36px;
+    color: #821095;
+    margin-bottom: 21px;
+}
+.text{
+    color: #D41EF2;
+    font-size: 24px;
+}
+.contactinfo{
+    width: 322px;
+    height: 153px;
+    background-color: #D41EF21F;
+    display: flex;
+    margin: 50%;
+}
+.contacthrader{
+    color: #1B24F4;
+    font-size: 36px;
+}
+.info{
+    padding-top: 35px;
+    font-size: 18px;
+}
+.contdistance{
+    padding-top: 11px;
+}
+.infocolor{
+    color: #0D69A9;
+}
+.contactblack{
+    color: black;
+}
